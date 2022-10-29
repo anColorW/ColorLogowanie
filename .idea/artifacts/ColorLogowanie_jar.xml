@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ColorLogowanie:jar">
+    <output-path>$USER_HOME$/Desktop/minecraftserver/plugins</output-path>
+    <root id="archive" name="ColorLogowanie.jar">
+      <element id="module-output" name="ColorLogowanie" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/minecraftserver/minecraft_server.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
